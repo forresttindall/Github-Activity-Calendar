@@ -14,7 +14,7 @@ body {
     align-items: center;
     text-align: center;
     justify-content: center;
-    background-color: rgb(10, 10, 10);
+    background-color: grey;
     padding: 0 5%;
 }
 main {
@@ -23,7 +23,7 @@ main {
     align-items: center;
     text-align: center;
     justify-content: center;
-    background-color: rgb(10, 10, 10);
+    background-color: grey;
     padding: 0 5%;
 }
 
